@@ -1,16 +1,17 @@
 # Conversor
 
-<p align="left">
+<p align="left">   
     <img src="https://img.shields.io/github/followers/correalucca?style=social&label=Follow&maxAge=2592000"/>
     <img src="https://img.shields.io/badge/languange-java-java"/>
 </p>
 
+<img src="badge-conversor.png">
+
 ## Descrição do projeto
 
 - O projeto Conversor é uma aplicação Java simples que tem como objetivo por em prática o que aprendemos durante a formação Backend Java da [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
-
+- Utilizei o Java e Biblioteca Swing.
 - Nele contém duas funcionalidades a de conversão de moedas e conversão de temperaturas.
-
 - Obs: Esse projeto tende a ser atualizado com o tempo
 
 ## Pré-requisitos do projeto:
@@ -57,6 +58,9 @@
 
   The [MIT License]() (MIT)  
   Copyright :copyright: 2023
+
+
+  
 
 
   

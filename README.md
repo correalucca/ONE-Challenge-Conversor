@@ -5,8 +5,6 @@
     <img src="https://img.shields.io/badge/languange-java-java"/>
 </p>
 
-<img src="badge-conversor.png">
-
 ## Descrição do projeto
 
 - O projeto Conversor é uma aplicação Java simples que tem como objetivo por em prática o que aprendemos durante a formação Backend Java da [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
@@ -59,6 +57,9 @@
   The [MIT License]() (MIT)  
   Copyright :copyright: 2023
 
+## Badge
+
+<img src="badge-conversor.png">
 
   
 
